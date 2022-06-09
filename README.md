@@ -1,6 +1,7 @@
--👋 Olá eu nome é @Naty098
--  Eu estou aprendendo a programar a linguagem  JavaScript e Scratch
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+ #SOBRE MIM
+ 
+º Olá  meu nome é @naty.
 
+º  Meu  email de contato é @nataly.coelho@escola.pr.gov.br.
 
+º Eu  estou aprendendo a  programar  JavaScript e  Scrath.
